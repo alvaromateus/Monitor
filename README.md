@@ -1,5 +1,5 @@
-# Monitor de memória e CPU
-Monitor de CPU e memória com plotagem de gráficos
+# Monitor de CPU e memória com plotagem de gráficos no Jupyter
 
-grafico.py -> Plota os graficos usando o arquivo log.CSV
-monitor.py -> Registra informação da hora, data e percentual de consumo de cpu e memória gravando no log.csv
+monitor.py -> Registra informação da hora, data e percentual de consumo de cpu e memória gravando no .csv
+
+time_series.ipynb -> Plotagem das informações do .csv e gráficos dos percentuais de consumo
